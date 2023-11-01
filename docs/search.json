@@ -2,21 +2,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "MUSA 550 Final Project Template",
+    "title": "Learning Quarto",
     "section": "",
     "text": "We can create beautiful websites that describe complex technical analyses in Python using Quarto and deploy them online using GitHub Pages. This combination of tools is a really powerful way to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the final project in MUSA 550.\nQuarto is a relatively new tool, but is becoming popular quickly. It’s a successor to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.\n\n\n\n\n\n\nImportant\n\n\n\nThis template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
-    "title": "MUSA 550 Final Project Template",
+    "title": "Learning Quarto",
     "section": "",
     "text": "We can create beautiful websites that describe complex technical analyses in Python using Quarto and deploy them online using GitHub Pages. This combination of tools is a really powerful way to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the final project in MUSA 550.\nQuarto is a relatively new tool, but is becoming popular quickly. It’s a successor to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.\n\n\n\n\n\n\nImportant\n\n\n\nThis template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project."
   },
   {
     "objectID": "index.html#find-out-more",
     "href": "index.html#find-out-more",
-    "title": "MUSA 550 Final Project Template",
+    "title": "Learning Quarto",
     "section": "Find out more",
     "text": "Find out more\nThe code for this repository is hosted on our course’s GitHub page: https://github.com/MUSA-550-Fall-2023/quarto-website-template.\nWe covered the basics of getting started with Quarto and GitHub Pages in week 9. Take a look at the slides for lecture 9A to find out more."
   },
@@ -58,9 +58,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Nick",
+    "title": "About the Author",
     "section": "",
-    "text": "On this about page, you might want to add more information about yourself, the project, or course. Any helpful context could go here!\nMy name is definitely NOT Nick Hand, the instructor for the course. You can find more information about me on my personal website.\nThis site is an example site showing how to use Quarto for the final project for MUSA 550, during fall 2023.\nAdipisicing proident minim non non dolor quis. Pariatur in ipsum aliquip magna. Qui ad aliqua nulla excepteur dolor nostrud quis nisi. Occaecat proident eiusmod in cupidatat. Elit qui laboris sit aliquip proident dolore. Officia commodo commodo in eiusmod aliqua sint cupidatat consectetur aliqua sint reprehenderit.\nOccaecat incididunt esse et elit adipisicing sit est cupidatat consequat. Incididunt exercitation amet dolor non sit anim veniam veniam sint velit. Labore irure reprehenderit ut esse. Minim quis commodo nisi voluptate."
+    "text": "On this about page, you might want to add more information about yourself, the project, or course. Any helpful context could go here!\nMy name is definitely NOT Nick Hand who is the instructor for the course. It’s actually Timothy Oliver. You can find more information about me on my personal website.\nThis site is an example site showing how to use Quarto for the final project for MUSA 550, during fall 2023.\nAdipisicing proident minim non non dolor quis. Pariatur in ipsum aliquip magna. Qui ad aliqua nulla excepteur dolor nostrud quis nisi. Occaecat proident eiusmod in cupidatat. Elit qui laboris sit aliquip proident dolore. Officia commodo commodo in eiusmod aliqua sint cupidatat consectetur aliqua sint reprehenderit.\nOccaecat incididunt esse et elit adipisicing sit est cupidatat consequat. Incididunt exercitation amet dolor non sit anim veniam veniam sint velit. Labore irure reprehenderit ut esse. Minim quis commodo nisi voluptate."
   },
   {
     "objectID": "analysis/1-python-code-blocks.html",
